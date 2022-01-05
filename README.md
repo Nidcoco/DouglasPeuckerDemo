@@ -73,7 +73,7 @@
 
 # Demo
 
-[Demo](https://zhuanlan.zhihu.com/p/74906781 "Title")
+[Demo](https://github.com/li199508/DouglasPeuckerDemo "Title")
 
 # 参考
 
